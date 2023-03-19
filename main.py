@@ -1,0 +1,5 @@
+x=int(input("input your first number:  "))
+y=int(input("input your second number:  "))
+z=int(input("input your third number:  "))
+u=int(x*100+y*10+z)
+print(int(u))
